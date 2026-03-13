@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/**
+[Rr]elease/**
+[Bb]in/**
+[Oo]bj/**
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Visual Studio Code
+.vscode/
